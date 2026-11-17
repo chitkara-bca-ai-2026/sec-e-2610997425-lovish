@@ -1,0 +1,3 @@
+Python is a programming language.
+HTML is used to create web pages.
+Loops help us repeat statements.

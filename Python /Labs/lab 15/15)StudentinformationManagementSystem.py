@@ -1,6 +1,4 @@
-print("===================")
-print("Palindrome Words Checker")
-print("==================")
+# # plindrome words
 
 # #checking if the word is palindrome or not
 
